@@ -304,7 +304,7 @@ export default function Home() {
                     <div style={{ fontWeight: 700, color: '#6d28d9', fontSize: 19, marginBottom: 2, lineHeight: 1.3 }}>{item.name}</div>
                     <div style={{ color: '#4b2997', fontSize: 15, lineHeight: 1.7, marginBottom: 8 }}>{item.desc}</div>
                     <a
-                      href={`/api/go?query=${encodeURIComponent(item.name)}`}
+                      href="https://link.coupang.com/a/cz0ZBL"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{
